@@ -1,1 +1,1 @@
-# day3HW
+# day3HW of javaReact Kamp3
