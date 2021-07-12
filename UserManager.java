@@ -13,11 +13,11 @@ public class UserManager {
 	}
 	public void logIn(User user) {
 		System.out.println(user.getFirstName() + " " + user.getLastName() 
-		+ " has been logged in into system");
+		+ " has logged in into system");
 	}
 	public void logOut(User user) {
 		System.out.println(user.getFirstName() + " " + user.getLastName() 
-		+ " has been logged out from the system");
+		+ " has logged out from the system");
 	}
 	public void updateUser(User user) {
 		System.out.println(user.getFirstName() + " " + user.getLastName() 
